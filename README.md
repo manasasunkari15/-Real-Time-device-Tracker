@@ -7,8 +7,10 @@
 Installation
 Clone the repository:
 git clone https://github.com/yourusername/realtime-device-tracker.git
+
 Navigate to the project directory:
 cd realtime-device-tracker
+
 Install the dependencies:
 npm install
 
@@ -16,5 +18,6 @@ npm install
 Usage
 Start the server:
 node app.js
+
 Open your web browser and navigate to:
 http://localhost:3000
